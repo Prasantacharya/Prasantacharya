@@ -1,8 +1,17 @@
 # README
 
-* Senior CS major at RPI (Graduating December 2021)
-* Bonobo enthusiest
-* Vim enjoyer
+About me:
+---
+
+* 🏫 Senior CS major @ RPI (Graduating December 2021)
+* 🦍 Bonobo enthusiest
+* 🖥️ Vim enjoyer
+* 🐧 Linux user and supporter
+* 🤔 Languages flutent: C, C++, Javascript, Python, Haskell, Java 
+
+Projects:
+---
+
 * [PM of ALPACA, although inactive at the moment](https://github.com/rpi-alpaca)
 * [Weeb Poly Dev: check out some of the projects](https://github.com/weeb-poly) 
 * [This is a pretty cool game, check it out](https://torn.space/)
