@@ -1,6 +1,6 @@
 # README
 
-https://komarev.com/ghpvc/?username=Prasantacharya
+![](https://komarev.com/ghpvc/?username=Prasantacharya)
 
 About me:
 ---
