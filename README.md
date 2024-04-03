@@ -18,5 +18,3 @@ Projects:
   * [Open Source too](https://github.com/TornDotSpace)
 
 💰 Donate if you can to: https://www.bonobos.org/. They have a [97/100 on charity navigator](https://www.charitynavigator.org/ein/200347301)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasantacharya)](https://github.com/anuraghazra/github-readme-stats)
