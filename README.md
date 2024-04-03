@@ -3,7 +3,7 @@
 About me:
 ---
 
-* 🏫 Senior CS major @ RPI (Graduating December 2021)
+* 🏫 Senior CS major @ RPI (Graduated December 2021)
 * 🦍 Bonobo enthusiest
 * 🖥️ Vim enjoyer
 * 🐧 Linux user and supporter
